@@ -55,7 +55,7 @@ The project is organized into several modules for clarity and maintainability:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/minilibc.git](https://github.com/stefanitastoica/MiniLibC.git)
+    git clone https://github.com/stefanitastoica/minilibc.git
     cd minilibc
     ```
 2.  Run `make` to compile the library. This will typically generate the object files and the final library file (e.g., a static `.a` or shared `.so` library, depending on the `Makefile` configuration).
